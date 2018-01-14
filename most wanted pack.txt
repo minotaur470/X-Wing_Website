@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	
+		<title>Most Wanted Expansion Pack</title>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+		
+	</head>
+	
+	<body>
+	
+		<h1>Most Wanted Expansion Pack</h1>
+		<p>The Most Wanted Expansion Pack contains 1 Y-Wing Alternate Art ship and 2 Z-95 Headhunter Alternate Art ships.</p>
+		<p></p>
+		<p>It contains the following pilot and upgrade cards:</p>
+		<ul>
+			<li>1 N'dru Suhlak
+			<li>1 Kaa'to Leeachos
+			<li>2 Black Sun Soldier
+			<li>2 Binayre Pirate
+			<li>1 Kavil
+			<li>1 Drea Renthal
+			<li>2 Hired Gun
+			<li>2 Syndicate Thug
+			<li>1 Boba Fett
+			<li>1 Kath Scarlet
+			<li>1 Emon Azzameen
+			<li>1 Mandalorian Mercenary
+			<li>1 Dace Bonearm
+			<li>1 Palob Godalhi
+			<li>1 Torkil Mux
+			<li>1 Spice Runner
+			<li>2 Autoblaster Turret
+			<li>2 Bomb Loadout
+			<li>1 Greedo
+			<li>1 K4 Security Droid
+			<li>1 Outlaw Tech
+			<li>1 "Genius"
+			<li>2 R4 Agromech
+			<li>1 R4-B11
+			<li>2 Salvaged Astromech
+			<li>2 Unhinged Astromech
+			<li>1 "Hot Shot" Blaster
+			<li>2 BTL-A4 Y-Wing
+			<li>1 Andrasta
+		</ul>
+		<p>It also contains the following tokens:
+		<ul>
+			<li>1 Focus Token
+			<li>4 Stress Tokens
+			<li>2 Target Lock Tokens KK/LL
+			<li>7 Shield Tokens
+			<li>10 Ship Tokens
+		</ul>
+		<p>MSRP: $39.95</p>
+	</body>
+	
+</html>
